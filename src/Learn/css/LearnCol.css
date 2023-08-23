@@ -1,0 +1,32 @@
+.LearnColMain .colName{
+    font-weight: bolder;
+    margin-left: 16px;
+    padding:0;
+    font-size:calc(1em + 1.25vmin);
+}
+
+.LearnColMain .learnCardTitle{
+    font-size:calc(0.75em + 0.55vmax );
+    color:orange;
+}
+
+.LearnColMain .learnCardText{
+    font-size:calc(0.40em + 0.55vmax);
+}
+
+.LearnColMain .singleLearn{
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 14px;
+}
+
+
+.singleLearn a{
+    color: black;
+    text-decoration: none;
+}
+
+.singleLearn a:hover{
+    color: orange;
+    text-decoration: none;
+}

@@ -1,0 +1,28 @@
+.SingleLearnMain .row{
+    justify-content: center;
+}
+
+.SingleLearnMain .learnTitle{
+    font-weight: bolder;
+    padding:14;
+    font-size:calc(1em + 1.25vmin);
+    padding-bottom: 10px;
+}
+
+.SingleLearnMain .learnDesc{
+    padding:14;
+    font-size:calc(0.5em + 1.25vmin);
+}
+
+.SingleLearnMain .videoFrame{
+    height: 60vh;
+    width: 50vw;
+}
+
+
+@media only screen and (max-width: 1500px){
+    .SingleLearnMain .videoFrame{
+        height: 30vh;
+        width: 100%;
+    }
+}

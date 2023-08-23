@@ -1,0 +1,20 @@
+.errorTitle{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.pagenotfound{
+    text-align: center;
+}
+
+.errorText{
+    font-size: large;
+}
+
+.errorText a{
+    color:orange;
+}
+
+.errorText a:hover{
+    color:orange
+}
